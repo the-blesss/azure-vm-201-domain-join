@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "southcentralus"
+            "value": "eastus"
         },
         "vmList": {
             "value": "client01,client02"
         },
         "domainJoinUserName": {
-            "value": "contoso\\username"
+            "value": "domain\\username"
         },
         "domainJoinUserPassword": {
             "value": "GEN-PASSWORD"
         },
         "domainFQDN": {
-            "value": "contoso.com"
+            "value": "domain.com"
         }
     }
 }
